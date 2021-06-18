@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tryomn
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning Web development with python
-- 💞️ I’m looking to collaborate with anyone on any projects (OpenSource)
+- 👀 I’m interested in Software Development.
+- 🌱 I’m currently learning Web development with python.
+- 💞️ I’m looking to collaborate with anyone on any projects.
 - 📫 How to reach me drop a message on +2348067543746.
 
 <!---
